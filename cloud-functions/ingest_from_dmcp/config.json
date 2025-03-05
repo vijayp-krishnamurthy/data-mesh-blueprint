@@ -1,0 +1,7 @@
+{
+    "bq_project": "my-gcp-project",
+    "bq_dataset": "source_data",
+    "bq_table": "raw_table",
+    "gcs_bucket": "my-data-bucket",
+    "gcs_file_path": "ingested/raw_data.csv"
+}

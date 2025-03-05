@@ -1,0 +1,5 @@
+project_id   = "my-gcp-project-prod"
+region       = "us-central1"
+dataset_id   = "source_data"
+table_id     = "raw_table"
+environment  = "prod"

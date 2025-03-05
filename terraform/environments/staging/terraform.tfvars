@@ -1,0 +1,5 @@
+project_id   = "my-gcp-project-staging"
+region       = "us-central1"
+dataset_id   = "source_data_staging"
+table_id     = "raw_table"
+environment  = "staging"

@@ -1,0 +1,5 @@
+project_id   = "my-gcp-project-dev"
+region       = "us-central1"
+dataset_id   = "source_data_dev"
+table_id     = "raw_table"
+environment  = "dev"
